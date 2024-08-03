@@ -1,0 +1,2 @@
+# STM32G0_THIndicator
+基于STM32G030K6T6的桌面温湿度计，来自于立创EDA训练营
